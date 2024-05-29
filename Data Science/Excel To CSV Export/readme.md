@@ -2,7 +2,7 @@
 ===
 Spreadsheet class to handle primarily Microsoft Excel related functions such as exporting Excel to CSV exports and other useful functions such as generating an actual Excel document dynamically and programmatically. 
 
-![OVH Spreadsheet](screen-shot-ovhspreadsheet.png)
+![OVH Spreadsheet](screen-shot-ovhspreadsheet.png | width=250)
 
 **Excel To CSV Export Function**
 A python function that converts all the excel documents for both file extensions ".xlsm" and ".xlsx" using panda library.
