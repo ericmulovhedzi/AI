@@ -8,8 +8,7 @@ A python function that converts all the excel documents for both file extensions
 
 How to run:
 --
-- # Declare and initialise a Spreadsheet class to look for MS Excel documents inside a folder named "excel" and separate the CSV files using "|" as a delimeter
-- Excel = Spreadsheet("excel",";") 
+- Excel = Spreadsheet("excel",";") # Declare and initialise a Spreadsheet class to look for MS Excel documents inside a folder named "excel" and separate the CSV files using "|" as a delimeter
 - print(str(Excel))
 - print(repr(Excel))
 - Excel.convert_excel_to_csv() # Convert Excel files to CSV
