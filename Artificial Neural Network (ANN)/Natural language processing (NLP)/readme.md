@@ -1,6 +1,6 @@
 **Natural language processing (NLP)**
 --
-This is a type of artificial intelligence, enables computers to interpret and analyze the visual environments such as image recognition primarily using convolution algorithms.
+This is a type of artificial intelligence that enables computers to understand and communicate with human language primarily using recurrent neural network algorithms.
 
 Recurrent Neural Network (RNN)
 --
