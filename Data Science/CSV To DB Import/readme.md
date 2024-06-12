@@ -7,4 +7,5 @@ The packadge is available in both **PHP** and **Python** languages.
 Import Results
 --
 
+
 ![PHP CSV to DB Import](screenshot_2024-06-12.png)
