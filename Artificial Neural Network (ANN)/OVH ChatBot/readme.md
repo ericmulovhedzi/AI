@@ -7,4 +7,4 @@ This version only utilizes two fundamental neural network models:
  (a) Convolution Neural Network (CNN) for computer vision processing and 
  (b) Recurrent Neural Network (RNN) for Natural Language Processing (NLP)
 
-![My Picture](screenshot_2024-06-12-1.png)
+![My Picture](screenshot_2024-06-12-2.png)
