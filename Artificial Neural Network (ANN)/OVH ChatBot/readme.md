@@ -8,6 +8,6 @@ This version only utilizes two fundamental neural network models:
  (b) Recurrent Neural Network (RNN) for Natural Language Processing (NLP)
 
 **Dektop Interface**
-
+--
 
 ![My Picture](screenshot_2024-06-12-2.png)
