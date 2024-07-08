@@ -2,6 +2,11 @@
 ===
 Load data from different website into html, text, and csv files
 
+How to run
+--
+
+1. python webhook.py
+
 Output
 --
 
