@@ -15,6 +15,6 @@ Word2Vector Embeding Testing
 
 ![Convolution Neural Netwirk Algorithm](screenshot_100-1.png)
 
-Computer Vision: Confolution Neural Network
+Computer Vision: Convolution Neural Network
 --
 ![Convolution Neural Netwirk Algorithm](screenshot_961-1.png)
