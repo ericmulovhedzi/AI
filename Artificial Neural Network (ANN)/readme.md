@@ -5,7 +5,7 @@ Deep Machine Learning (ANN) algorithm source codes for both NLP and Image-recogn
 
 Computer Vision: Confolution Neural Network
 ===
-![Convolution Neural Netwirk Algorithm](screenshot_961.PNG)
+![Convolution Neural Netwirk Algorithm](screenshot_961-1.PNG)
 
 
 Natural Langugae Processing (NLP):
