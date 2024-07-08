@@ -6,7 +6,7 @@ Deep Machine Learning (ANN) algorithm source codes for both NLP and Image-recogn
 Natural Langugae Processing (NLP):
 --
 
-Word2Vector Embeding using Skip-gram algorithm
+Word2Vector Embeding using Skip-gram algorithm:
 
 ![Convolution Neural Netwirk Algorithm](screenshot_100-2.png)
 
